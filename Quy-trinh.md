@@ -1,4 +1,7 @@
-%% Dashboard Tầng Quản trị Dữ liệu
+# Workflow Example
+
+<!-- Tầng Quản Lý -->
+```mermaid
 graph TD;
 
     A[Quy trình đăng kí bản quyền] -->|Checkbox trong chi tiết TSTT| A1[Theo khối, đơn vị, các khâu sản xuất];
